@@ -35,7 +35,7 @@ The tracking method works even in the browser's incognito mode and is not cleare
 
 ### 💭 Inspiration
 
-- Paper by Scientists at University of Illinois, Chicago: [www.cs.uic.edu](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)
+- Paper by Scientists at University of Illinois, Chicago: [par.nsf.gov](https://par.nsf.gov/servlets/purl/10268961)
 - Article by heise: [heise.de](https://heise.de/-5027814) 
 
 ### 🌱 Purpose
@@ -342,7 +342,8 @@ Liked the project? Just give it a star ⭐ and spread the world!
 * 🇧🇷 [Felipe Demartini on canaltech.com.br](https://canaltech.com.br/seguranca/favicons-podem-ser-usados-para-rastrear-usuarios-online-permanentemente-178834/)
 * 🇧🇬 [Daniel Despodov on kaldata.com](https://www.kaldata.com/it-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/%D0%BD%D0%BE%D0%B2-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B7%D0%B0-%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82-355279.html)
 * 🇫🇷 [Guillaume Belfiore on clubic.com](https://www.clubic.com/navigateur-internet/actualite-353236-publicite-les-favicons-des-sites-web-pourraient-se-montrer-un-peu-trop-curieux.html)
-* 🇨🇳 [study875 on cnbeta.com](https://www.cnbeta.com/articles/tech/1089095.htm)
+* 🇨🇳 [study875 on cnbeta.com (Via archive.org)](https://web.archive.org/web/20220701105509/http://cnbeta.com/articles/tech/1089095.htm)
 * 🇷🇺 [ITSumma on habr.com](https://habr.com/ru/company/itsumma/blog/542734/)
 * 🇷🇺 [securitylab.ru](https://www.securitylab.ru/news/516436.php)
 * <img src="https://youtube.com/favicon.ico" width="20"> [Seytonic on YouTube](https://youtu.be/X7OW5hTt5hY)
+
